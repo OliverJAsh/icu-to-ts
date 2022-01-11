@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "exactOptionalPropertyTypes": true,
+        "noUncheckedIndexedAccess": true,
+        "noImplicitReturns": true,
+        "jsx": "react",
+        "sourceMap": true,
+        "outDir": "./target/",
+        "target": "ESNext",
+        "moduleResolution": "Node",
+        "module": "CommonJS"
+    }
+}
